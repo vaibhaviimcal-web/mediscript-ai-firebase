@@ -2,7 +2,7 @@
 // MediScript AI - Production Firebase Project
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAZH8VLSoUV5fZD9ptw1i6m3bTV3SZ5wGg",
+  apiKey: "AIzaSyAZH8VLSoUV5f2D9ptwIi6m3bTV3SZSwGg",
   authDomain: "mediscript-ai-78d2f.firebaseapp.com",
   projectId: "mediscript-ai-78d2f",
   storageBucket: "mediscript-ai-78d2f.firebasestorage.app",
